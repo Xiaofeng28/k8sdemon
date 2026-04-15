@@ -214,7 +214,7 @@ nginx -s reload
 
 ---
 
-<img src="./imgs/web.png" style="zoom: 33%;" />
+
 
 ---
 
