@@ -1,0 +1,13 @@
+# 配置文件
+# 程序配置信息
+system:
+  port: 8080
+  host: "0.0.0.0"
+# 数据库连接信息
+mysql:
+  port: 3306
+  host: "192.168.15.36"
+  username: "root"
+  password: "QQlpx1314."
+  dbname: "k8sdemon"
+  
